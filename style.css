@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    
+}
+.container1{
+    width: 100%;
+    max-width: 1300px;
+    margin: auto;
+}
+.container{
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+.float{
+    list-style: none;
+    float: right;
+    display: inline-flex;
+
+}
+.anchor{
+    text-decoration: none;
+    color: black;
+    padding-right: 25px;
+}
+.font-hed{
+    font-size: 30px;
+}
+.anchor:hover{
+    text-decoration: underline;
+}
+.grey:hover{
+    background-color: rgb(161, 157, 157);
+    padding: 10px;
+    transition: 0.5s;
+}
+.div1 {
+    width: 1300px;
+    height: 600px;
+    margin-top:0px ;
+}
+header{
+    position: fixed;
+    width: 100%;
+}
+.white{
+    background-color: white;
+}
+.nav{
+
+    padding: 20px;
+}
+.p1{
+    padding-top: 350px;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(124, 120, 120);
+}
+.b{
+    background-color: rgb(28, 25, 25);
+    padding: 10px;
+}
+.div2{
+    width: 400px;
+    height: 200px;
+}
+.font40{
+    font-size: 40px;
+}
+.margin20{
+    margin: 50px;
+}
+.size{
+    width: 300px;
+}
+.dis{
+    position: absolute;
+    background-color: black;
+    color: white;
+    padding: 8px 16px!important;
+    
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.pa1{
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+.center{
+    text-align: center;
+}
+.font18{
+    font-size: 18px;
+    
+}
+.grey1{
+    color: grey;
+    padding: 10px 0px;
+}
+.bor{
+    padding: 5px 100px;
+    border: none;
+    font-size: 17px;
+}
+.flex2{
+    display: flex;
+}
+.pa2{
+    padding: 30px;
+}
+.f{
+    padding: 10px 0px;
+    padding-bottom: 30px;
+}
+.input{
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.inpu1{
+    padding: 8px;
+    background-color: black;
+    color: white;
+    margin-bottom: 50px;
+}
+.mar2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mar3{
+    padding-top: 80px;
+    
+}
